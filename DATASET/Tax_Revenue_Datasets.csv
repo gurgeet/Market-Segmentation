@@ -1,0 +1,101 @@
+Type,Tax Category,Tax Sub Category,Tax Particular,Major Head,Actual 2017-2018,Budget 2018-2019,Revised 2018-2019,Budget 2019-2020
+Tax Revenue,Corporation Tax,,Collections,20,486113.18,527750.39,575795.77,652168.08
+Tax Revenue,Corporation Tax,,Surcharge,20,21439.48,63711.15,64777.02,73368.91
+Tax Revenue,Corporation Tax,,Education Cess,20,16305.02,29538.46,30427.21,34463.01
+Tax Revenue,Corporation Tax,,Penalties,20,1526.86,0,0,0
+Tax Revenue,Corporation Tax,,Interest Recoveries,20,3209.3,0,0,0
+Tax Revenue,Corporation Tax,,Tax on Distributed Profits of Domestic Companies,20,41180.67,0,0,0
+Tax Revenue,Corporation Tax,,Tax on Distributed Income to Unit Holders,20,879.45,0,0,0
+Tax Revenue,Corporation Tax,,Miscellaneous Receipts,20,547.91,0,0,0
+Tax Revenue,Taxes on Income,,Collections,21,388197.66,461182.33,461182.33,540590.16
+Tax Revenue,Taxes on Income,,Surcharge,21,3172.17,36894.59,36894.59,43232.64
+Tax Revenue,Taxes on Income,,Education Cess,21,11869.08,19923.08,19923.08,23377.2
+Tax Revenue,Taxes on Income,,Penalties,21,424.93,0,0,0
+Tax Revenue,Taxes on Income,,Interest Recoveries,21,4318.02,0,0,0
+Tax Revenue,Taxes on Income,,Tax Under Black Money,21,9.94,0,0,0
+Tax Revenue,Taxes on Income,,Miscellaneous Receipts,21,99.63,0,0,0
+Tax Revenue,Taxes on Income,,Banking Transaction Tax (BCTT),36,0.01,0,0,0
+Tax Revenue,Taxes on Income,,Security Transaction Tax,34,11881.4,11000,11000,12800
+Tax Revenue,Taxes on Income,,Hotel Receipts Tax,23,0.5,0,0,0
+Tax Revenue,Taxes on Income,,Interest Tax,24,4.45,0,0,0
+Tax Revenue,Taxes on Income,,Fringe Benefit Tax,26,-93.29,0,0,0
+Tax Revenue,Taxes on Income,Other Taxes on Income and Expenditure,Expenditure Tax,28,0,0,0,0
+Tax Revenue,Taxes on Income,Other Taxes on Income and Expenditure,"Income Declaration Scheme, 2016",28,0,0,0,0
+Tax Revenue,Taxes on Income,Other Taxes on Income and Expenditure,"Taxation and Investment Regime for Pradhan Mantri Garib Kalyan Yojna, 2016",28,0,0,0,0
+Tax Revenue,Taxes on Income,Other Taxes on Income and Expenditure,Other Receipts,28,0,0,0,0
+Tax Revenue,Taxes on Income,,Land Revenue,29,0,0,0,0
+Tax Revenue,Taxes on Income,,Stamps and Registration,30,0,0,0,0
+Tax Revenue,Taxes on Income,,Krishi Kalyan Cess,28,0,0,0,0
+Tax Revenue,Wealth Tax,,Estate Duty,31,0.84,0,0,0
+Tax Revenue,Wealth Tax,,Taxes on Wealth,32,62.59,0,0,0
+Tax Revenue,Wealth Tax,,Gift Tax,33,0,0,0,0
+Tax Revenue,Customs,Import Duties,Basic Duties,37,80754.66,96300,115238,130624
+Tax Revenue,Customs,Import Duties,Additional Duty of Customs(CVD),37,33488.61,0,1500,0
+Tax Revenue,Customs,Import Duties,Special CV Duty,37,9603.44,0,50,0
+Tax Revenue,Customs,Import Duties,Additional Duty of Customs on Motor Spirit,37,0,0,0,0
+Tax Revenue,Customs,Import Duties,Additional Duty of Custom on High Speed Diesel Oil,37,6.77,0,3,0
+Tax Revenue,Customs,Import Duties,Special Additional Duty of Customs on Motor Spirit,37,0,0,0,0
+Tax Revenue,Customs,Import Duties,National Calamity Contingent Duty,37,576.68,750,515,545
+Tax Revenue,Customs,Import Duties,Education Cess,37,2014.2,0,38,0
+Tax Revenue,Customs,Import Duties,Secondary and Higher Education Cess,37,984.32,0,14,0
+Tax Revenue,Customs,Import Duties,Social Welfare Surcharge,37,1206.99,8000,9000,10080
+Tax Revenue,Customs,,Export Duty,37,163.72,288,200,224
+Tax Revenue,Customs,,Cesses on Exports,37,230.53,112,280,315
+Tax Revenue,Customs,,Other Receipts,37,0,7050,3200,3600
+Tax Revenue,Customs,,Sale of Gold by Public Auction,37,0,0,0,0
+Tax Revenue,Customs,,Sale Proceeds of Confiscated Goods,37,0,0,0,0
+Tax Revenue,Customs,,Anti-dumping Duty,37,0,0,0,0
+Tax Revenue,Customs,,Safeguard Duty,37,0,0,0,0
+Tax Revenue,Union Excise Duties,,Basic and Special Excise Duties excluding Cess on Motor Spirit and High Speed Diesel Oil,38,116886.22,94000,93777,81565
+Tax Revenue,Union Excise Duties,,Additional Duty of Excise on Motor Spirit,38,21935.11,0,0,0
+Tax Revenue,Union Excise Duties,,Additional Duty of Excise on High Speed Diesel Oil,38,61181.31,0,0,0
+Tax Revenue,Union Excise Duties,,National Calamity Contingent Duty,38,2938.44,1750,1800,1935
+Tax Revenue,Union Excise Duties,,Special Additional Duty of Excise on Motor Spirit,38,27343.04,36000,32000,35200
+Tax Revenue,Union Excise Duties,,Surcharge on Pan Masala and Tobacco Products,38,989.7,0,0.18,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Education Cess,38,12.89,0,2.75,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Secondary & Higher Education Cess,38,5.59,0,1.41,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Cess on Crude Oil,38,13579.21,14850,19000,20900
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Cess on Bidi,38,32.6,0,0.02,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Cess on Sugar,38,793.4,0,8.35,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Cess on Automobiles,38,96.42,0,0.08,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Others,38,48.61,0,0.5,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Clean Environment Cess (Erstwhile-Clean Energy Cess),38,11463.43,0,2.83,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Infrastructure Cess,38,903.9,0,6.88,0
+Tax Revenue,Union Excise Duties,Cesses administrated by Department of Revenue,Duty of Excise on Motor Spirit and High Speed Diesel Oil (Road and Infrastructure Cess),38,0,113000,113000,120000
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Coal & Coke,38,323.3,0,2,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Salt,38,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Rubber,38,90.81,0,10,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Mica,38,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,"Iron Ore, Manganese & Chrome Ore",38,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Lime Stone and Dolomite,38,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Cine Workers,38,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Prevention & Control of ( Air & Water ) Pollution,45,181.1,0,0.2,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Receipts netted against expenditure for Prevention & Control of ( Air & Water ) Pollution,45,-174.82,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Net Prevention & Control of ( Air & Water ) Pollution,45,6.28,0,0.2,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Research and Development,45,191.41,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Beedi Fund,38,11.48,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Cess under other Accounts,45,0,0,0,0
+Tax Revenue,Union Excise Duties,Cesses administered by Other Departments,Cess Collection on Textiles & Textile Machinery,38,0.47,0,0,0
+Tax Revenue,Service Tax,,Collections,44,74150.66,0,8655,0
+Tax Revenue,Service Tax,,Education Cess,44,34.91,0,12,0
+Tax Revenue,Service Tax,,Secondary & Higher Education Cess,44,19.2,0,6,0
+Tax Revenue,Service Tax,,Swachh Bharat Cess,44,4243.4,0,240,0
+Tax Revenue,Service Tax,,Krishi Kalyan Cess,44,2779.9,0,370,0
+Tax Revenue,Other Taxes and Duties on Commodities and Services,,"Taxes on Sale, Trade etc.",40,0,0,0,0
+Tax Revenue,Other Taxes and Duties on Commodities and Services,,Other Taxes,45,597.66,0,0,0
+Tax Revenue,Goods and Services Tax (GST),,Central Goods and Services Tax (CGST),5,203261.4,603900,503900,610000
+Tax Revenue,Goods and Services Tax (GST),,Integrated Goods and Services Tax (IGST),8,176688.44,50000,50000,50000
+Tax Revenue,Goods and Services Tax (GST),,GST Compensation Cess,9,62611.59,90000,90000,101200
+Tax Revenue,Taxes of Union Territories,,Land Revenue,710,4.08,8.75,10,39
+Tax Revenue,Taxes of Union Territories,,Stamps and Registration,710,205.37,225.8,224,228
+Tax Revenue,Taxes of Union Territories,,State Excise Duties,710,780,1000,1059,1137
+Tax Revenue,Taxes of Union Territories,,Sales Tax,710,1706.49,1165,1235,1418
+Tax Revenue,Taxes of Union Territories,,Taxes on Vehicles,710,217.83,256,236,250
+Tax Revenue,Taxes of Union Territories,,Taxes on goods and passengers,710,11.25,12,12,13
+Tax Revenue,Taxes of Union Territories,,Taxes and Duties on Electricity,710,34.41,35,36,37
+Tax Revenue,Taxes of Union Territories,,Other Taxes and Duties,710,126.15,9.01,0,0
+Tax Revenue,Taxes of Union Territories,,Union Territories Goods and Services Tax (UTGST),7,1635.1,2530,2530,2821
+Less,Less-NCCD transferred to the National Disaster Response Fund,,NCCD (Customs),37,-576.68,-750,-515,-545
+Less,Less-NCCD transferred to the National Disaster Response Fund,,NCCD (Union Excise),38,-2938.44,-1750,-1800,-1935
+Less,Less-States' Share,,Less-States' Share,710,-673005.29,-768412.57,-736879.65,-844605.48
+Less,Less-States' share adjustment as per Actual,,Less-States' share adjustment as per Actual,710,0,-19679.95,-24574.5,0
